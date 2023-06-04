@@ -1,0 +1,13 @@
+{
+  "miniprogramRoot": "./",
+  "projectname": "mini-app",
+  "description": "testvue",
+  "appid": "wxcda94a9f89a9a2d0",
+  "setting": {
+    "urlCheck": true,
+    "es6": false,
+    "postcss": false,
+    "minified": false
+  },
+  "compileType": "miniprogram"
+}
